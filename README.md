@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zukhriddin</h1>
 <h3 align="center">Curious mobile developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=android-dev1&label=Profile%20views&color=
-0e75b6&style=flat" alt="android-dev1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zulfiddinovich&label=Profile%20views&color=blueviolet&style=flat" alt="android-dev1" /> </p>
 
 - 🌱 I’m currently learning **C/C++, Dart/Flutter**
 
 - 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me: 
-
-<br>
  - **ttymi.kamolov@gmail.com**
- - <h3 align="left">Connect with me:</h3><h3>**https://t.me/TTYMI_OKMK**</h3>
+ - <h3 align="left">Connect with me:</h3><h3>https://t.me/TTYMI_OKMK</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
