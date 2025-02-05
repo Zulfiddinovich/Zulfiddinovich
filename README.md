@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zulfiddinovich&label=Profile%20views&color=blueviolet&style=flat" alt="android-dev1" /> </p>
 
-- 🌱 I’m currently learning **C/C++, Dart/Flutter**
+- 🌱 I’m currently learning **C/C++, Qt/Qml**
 
 - 💬 Ask me about **Mobile Development**
 
